@@ -1,0 +1,279 @@
+{
+  "source": "https://larache-historia.blogspot.com/2009/11/comandancia-general-de-larache.html",
+  "basis": "Supplied photographs and documentary analysis; interpretative estimated model.",
+  "coordinates": "glTF [Blender x, Blender z, -Blender y]",
+  "items": [
+    {
+      "id": "ensemble",
+      "position": [
+        -7.2,
+        9.7,
+        10.15
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "target": [
+        -0.6,
+        11,
+        0
+      ],
+      "orbit": "-38deg 69deg 78m",
+      "title": {
+        "fr": "Un bâtiment, plusieurs regards",
+        "es": "Un edificio, varias miradas",
+        "ar": "مبنى واحد وزوايا متعددة"
+      },
+      "text": {
+        "fr": "La Comandancia General se reconnaît à sa tour, ses balcons et sa galerie d’arcades. Cette visite extérieure rapproche le modèle des photographies au sol et des vues aériennes fournies pour sa reconstruction.",
+        "es": "La Comandancia General se reconoce por su torre, sus balcones y su galería de arcos. Esta visita exterior relaciona el modelo con las fotografías a nivel de calle y las vistas aéreas utilizadas para reconstruirlo.",
+        "ar": "تتميز القيادة العامة ببرجها وشرفاتها ورواق أقواسها. تربط هذه الزيارة الخارجية النموذج بصور المبنى الملتقطة من الشارع وبالمشاهد الجوية المستخدمة في إعادة بنائه."
+      },
+      "note": {
+        "fr": "Les dimensions du modèle sont estimées.",
+        "es": "Las dimensiones del modelo son estimadas.",
+        "ar": "أبعاد النموذج تقديرية."
+      }
+    },
+    {
+      "id": "tour",
+      "position": [
+        -11.35,
+        17.1,
+        10.04
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "target": [
+        -11.35,
+        18,
+        8.4
+      ],
+      "orbit": "-25deg 78deg 30m",
+      "title": {
+        "fr": "La tour et ses cadrans",
+        "es": "La torre y sus esferas",
+        "ar": "البرج وواجهات الساعة"
+      },
+      "text": {
+        "fr": "La tour organise la silhouette du bâtiment. Observez la succession des baies étroites, des ouvertures jumelées, du panneau quadrillé et des quatre petites arcades. Un édicule plus étroit porte les cadrans, sous une toiture pyramidale.",
+        "es": "La torre organiza la silueta del edificio. Observe las aberturas estrechas, los vanos geminados, el panel cuadriculado y los cuatro pequeños arcos. Un cuerpo más estrecho sostiene las esferas bajo una cubierta piramidal.",
+        "ar": "يحدد البرج هيئة المبنى. تأمل تتابع الفتحات الضيقة والمزدوجة واللوحة الشبكية والأقواس الأربعة الصغيرة. ويحمل الجزء العلوي الأضيق واجهات الساعة تحت سقف هرمي."
+      },
+      "note": {
+        "fr": "Les chiffres et aiguilles illisibles n’ont pas été inventés.",
+        "es": "No se han inventado cifras ni agujas ilegibles.",
+        "ar": "لم تُضف أرقام أو عقارب لا تظهر بوضوح في الصور."
+      }
+    },
+    {
+      "id": "portail",
+      "position": [
+        -7.2,
+        2.6,
+        10.15
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "target": [
+        -7.2,
+        2.7,
+        10
+      ],
+      "orbit": "-12deg 84deg 13m",
+      "title": {
+        "fr": "Le portail monumental",
+        "es": "La portada monumental",
+        "ar": "البوابة الرئيسية"
+      },
+      "text": {
+        "fr": "L’entrée est encadrée par un arc outrepassé et plusieurs reliefs concentriques. Les motifs dentés et les lobes extérieurs attirent le regard vers la porte. Le modèle traduit ces ornements en volumes, avec une profondeur d’embrasure.",
+        "es": "La entrada está enmarcada por un arco de herradura y varios relieves concéntricos. Los motivos dentados y los lóbulos exteriores conducen la mirada hacia la puerta. El modelo representa estos ornamentos con volumen y profundidad.",
+        "ar": "يحيط بالمدخل قوس متجاوز وعدة زخارف بارزة متداخلة. وتوجه الأشكال المسننة والفصوص الخارجية النظر نحو الباب. يجسد النموذج هذه الزخارف بأحجام وعمق للفتحة."
+      },
+      "note": {
+        "fr": "Les profils fins sont une interprétation des photographies.",
+        "es": "Los perfiles finos interpretan las fotografías.",
+        "ar": "التفاصيل الدقيقة تفسير للصور المتاحة."
+      }
+    },
+    {
+      "id": "balcon",
+      "position": [
+        -7.2,
+        6.25,
+        11.13
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "target": [
+        -7.2,
+        6.4,
+        10.8
+      ],
+      "orbit": "-23deg 77deg 16m",
+      "title": {
+        "fr": "Le grand balcon",
+        "es": "El gran balcón",
+        "ar": "الشرفة الكبرى"
+      },
+      "text": {
+        "fr": "Au-dessus du portail, le balcon fermé présente cinq travées. Ses panneaux géométriques, ses treillis et les consoles placées sous le plancher caractérisent la façade. La couverture verte en saillie complète cet ensemble.",
+        "es": "Sobre la portada, el balcón cerrado presenta cinco tramos. Sus paneles geométricos, celosías y ménsulas bajo el suelo caracterizan la fachada. La cubierta verde saliente completa el conjunto.",
+        "ar": "تعلو البوابة شرفة مغلقة تتكون واجهتها من خمس فتحات. وتتميز بألواح هندسية وشبكات زخرفية ودعامات تحت أرضيتها، ويكملها سقف أخضر بارز."
+      },
+      "note": {
+        "fr": "Les menuiseries et les motifs restent approximatifs à petite échelle.",
+        "es": "La carpintería y los motivos pequeños son aproximados.",
+        "ar": "النجارة والزخارف الصغيرة تقريبية."
+      }
+    },
+    {
+      "id": "galerie",
+      "position": [
+        2.4,
+        7.6,
+        10.1
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ],
+      "target": [
+        2.4,
+        6.9,
+        9.6
+      ],
+      "orbit": "5deg 80deg 29m",
+      "title": {
+        "fr": "Les neuf arcades",
+        "es": "Los nueve arcos",
+        "ar": "الأقواس التسعة"
+      },
+      "text": {
+        "fr": "La galerie prolonge la façade à droite du grand balcon. Neuf arcades rythment cette partie du bâtiment. Les ouvertures, les supports et le garde-corps composent une succession de pleins et de vides à observer en tournant légèrement le modèle.",
+        "es": "La galería prolonga la fachada a la derecha del gran balcón. Nueve arcos marcan el ritmo de esta parte del edificio. Vanos, soportes y barandilla forman una secuencia de llenos y vacíos que puede observarse al girar el modelo.",
+        "ar": "يمتد الرواق إلى يمين الشرفة الكبرى ويتألف من تسعة أقواس. وتشكل الفتحات والدعامات والدرابزين إيقاعاً من الأجزاء المصمتة والفراغات يظهر عند تدوير النموذج قليلاً."
+      },
+      "note": {
+        "fr": "Les garde-corps varient entre certaines références.",
+        "es": "Las barandillas varían entre algunas referencias.",
+        "ar": "تختلف تفاصيل الدرابزين بين بعض الصور المرجعية."
+      }
+    },
+    {
+      "id": "laterale",
+      "position": [
+        -12.56,
+        4.15,
+        3.1
+      ],
+      "normal": [
+        -1,
+        0,
+        0
+      ],
+      "target": [
+        -12,
+        5,
+        0
+      ],
+      "orbit": "-90deg 78deg 41m",
+      "title": {
+        "fr": "La façade latérale",
+        "es": "La fachada lateral",
+        "ar": "الواجهة الجانبية"
+      },
+      "text": {
+        "fr": "Cette face montre une autre organisation : fenêtres à l’étage, baies groupées au rez-de-chaussée et trois petits auvents. Un balcon plus étroit accompagne la tour. La vue presque frontale fournie permet de repérer cette distribution.",
+        "es": "Esta fachada presenta otra organización: ventanas en la planta alta, vanos agrupados en la planta baja y tres pequeños aleros. Un balcón más estrecho acompaña la torre. La fotografía casi frontal permite reconocer esta distribución.",
+        "ar": "تتميز هذه الواجهة بنوافذ في الطابق العلوي وفتحات مجمعة في الطابق الأرضي وثلاث مظلات صغيرة. وتجاور البرج شرفة أضيق. وتساعد الصورة شبه الأمامية على قراءة هذا التوزيع."
+      },
+      "note": {
+        "fr": "Les détails peu lisibles ont été simplifiés.",
+        "es": "Los detalles poco legibles se han simplificado.",
+        "ar": "بُسّطت التفاصيل التي لا تظهر بوضوح."
+      }
+    },
+    {
+      "id": "toitures",
+      "position": [
+        3,
+        12.65,
+        5.2
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "target": [
+        0,
+        9,
+        0
+      ],
+      "orbit": "-35deg 35deg 56m",
+      "title": {
+        "fr": "Terrasses et petite coupole",
+        "es": "Terrazas y pequeña cúpula",
+        "ar": "السطوح والقبة الصغيرة"
+      },
+      "text": {
+        "fr": "Les vues aériennes révèlent de grandes terrasses rouges, des volumes centraux à plusieurs niveaux et une petite lanterne coiffée d’une coupole. Les tuiles vertes couvrent notamment les balcons et le sommet de la tour, pas tout le bâtiment.",
+        "es": "Las vistas aéreas revelan amplias terrazas rojas, volúmenes centrales escalonados y un pequeño cuerpo coronado por una cúpula. Las tejas verdes cubren, entre otros elementos, los balcones y la cima de la torre, no todo el edificio.",
+        "ar": "تكشف المشاهد الجوية سطوحاً حمراء واسعة وأحجاماً وسطية متدرجة وعنصراً صغيراً تتوجه قبة. وتغطي القرميدات الخضراء خصوصاً الشرفات وأعلى البرج، وليس المبنى بأكمله."
+      },
+      "note": {
+        "fr": "Les pentes et les épaisseurs ne sont pas mesurées.",
+        "es": "Las pendientes y los espesores no están medidos.",
+        "ar": "الميول والسماكات غير مقاسة."
+      }
+    },
+    {
+      "id": "arriere",
+      "position": [
+        3.2,
+        5.1,
+        -11.86
+      ],
+      "normal": [
+        0,
+        0,
+        -1
+      ],
+      "target": [
+        0,
+        8,
+        -3
+      ],
+      "orbit": "166deg 73deg 65m",
+      "title": {
+        "fr": "L’arrière et les états anciens",
+        "es": "La parte posterior y los estados antiguos",
+        "ar": "الواجهة الخلفية والحالات القديمة"
+      },
+      "text": {
+        "fr": "Les cartes anciennes montrent un balcon à trois baies apparentes et une grande couverture arrondie derrière cette façade. L’arrière du modèle reste partiel. La grande coupole ancienne est conservée comme hypothèse séparée dans Blender et ne figure pas dans cette version web.",
+        "es": "Las postales antiguas muestran un balcón con tres vanos aparentes y una gran cubierta redondeada detrás de esta fachada. La reconstrucción posterior es parcial. La gran cúpula antigua se conserva como hipótesis separada en Blender y no aparece en esta versión web.",
+        "ar": "تُظهر البطاقات القديمة شرفة بثلاث فتحات ظاهرة وغطاءً كبيراً مستديراً خلف هذه الواجهة. وتبقى إعادة بناء الواجهة الخلفية جزئية. حُفظت القبة القديمة الكبيرة كفرضية منفصلة في Blender ولا تظهر في نسخة الويب هذه."
+      },
+      "note": {
+        "fr": "État actuel de cette façade non vérifié ; intérieur non reconstruit.",
+        "es": "Estado actual de esta fachada no verificado; interior no reconstruido.",
+        "ar": "لم يُتحقق من الحالة الحالية لهذه الواجهة، ولم يُنمذج الداخل."
+      }
+    }
+  ]
+}
